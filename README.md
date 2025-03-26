@@ -1,1 +1,1 @@
-# loan_approval_pred
+Loan Approval Prediction Model
